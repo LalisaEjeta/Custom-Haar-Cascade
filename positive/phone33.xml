@@ -1,0 +1,26 @@
+<annotation>
+	<folder>positive</folder>
+	<filename>phone33.png</filename>
+	<path>D:\AI projects\Custom-Haar-Cascade\positive\phone33.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>255</width>
+		<height>198</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>2</ymin>
+			<xmax>178</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>
