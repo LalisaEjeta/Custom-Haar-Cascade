@@ -8,7 +8,7 @@ face_cascade = cv2.CascadeClassifier('./classifier/cascade.xml')
 cap = cv2.VideoCapture(0)
 
 # To use a video file as input 
-# cap = cv2.VideoCapture('filename.mp4')
+# cap = cv2.VideoCapture('filename.mp4')    
 
 prevTime = 0
 
