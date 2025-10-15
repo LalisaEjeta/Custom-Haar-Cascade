@@ -5,7 +5,7 @@ index.html
 README.md
 classifier/
 images/*.png 
-/opencv
+opencv/
 
 train.py
 vecfile.py
