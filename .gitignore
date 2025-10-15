@@ -1,0 +1,13 @@
+face.py 
+rename.py
+negtxt.py 
+index.html
+README.md
+classifier/
+images/*.png 
+/opencv
+
+train.py
+vecfile.py
+edit.py
+pos.py
